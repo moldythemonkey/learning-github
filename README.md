@@ -9,3 +9,8 @@ A repo created at ResBaz to help me learn GitHub
 
 1. Numbered list item
 1. Numbered list item 2 
+
+
+---------
+
+Type some more text
